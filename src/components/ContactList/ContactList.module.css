@@ -1,0 +1,15 @@
+.contactsList {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    padding: 0;
+}
+
+.contactsList>li {
+    background-color: #FFC75F4D;
+    margin: 0;
+}
+ 
+.contactsList>li:nth-child(even) {
+    background-color: #845EC24D;
+}

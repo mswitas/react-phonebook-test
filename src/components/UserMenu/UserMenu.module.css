@@ -1,0 +1,10 @@
+.userMenu {
+    display: flex;
+    gap: 25px;
+    color: #fff;
+}
+
+.userMenuBtn:global.MuiButtonBase-root:hover {
+    background-color: #FFC75F66;
+    border: 1px solid #FFC75F;
+}

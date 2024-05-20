@@ -1,0 +1,12 @@
+.authMenu {
+    display: flex;
+    gap: 10px;
+}
+
+.authMenuLink {
+    color: #fff;
+}
+
+.authMenuLink:global.active {
+    color: #FFC75F;
+}

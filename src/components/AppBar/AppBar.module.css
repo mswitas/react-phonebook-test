@@ -1,0 +1,12 @@
+.mainHeader {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #845EC2;
+    margin-block-end: 50px;
+    padding-block: 25px;
+    -webkit-box-shadow: 0px 8px 10px -1px rgba(75, 68, 83, 1);
+    -moz-box-shadow: 0px 8px 10px -1px rgba(75, 68, 83, 1);
+    box-shadow: 0px 8px 10px -1px rgba(75, 68, 83, 1);
+}
+

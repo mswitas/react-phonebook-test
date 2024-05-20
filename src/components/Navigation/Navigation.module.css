@@ -1,0 +1,12 @@
+.mainNav {
+    display: flex;
+    gap: 10px;
+}
+
+.mainMenuLink {
+    color: #fff;
+}
+
+.mainMenuLink:global.active {
+    color: #FFC75F;
+}
